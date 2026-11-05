@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-proposals-and-quotes-nuxt",
+  "capabilityKey": "liberusoftware/module-crm-proposals-and-quotes",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-crm-proposals-and-quotes-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/crm/nextjs/proposals-and-quotes.md",
+  "presentationPlan": "projects/crm/nuxt/proposals-and-quotes.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
